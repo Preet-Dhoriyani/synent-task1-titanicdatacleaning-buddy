@@ -58,13 +58,11 @@ These datasets are now ready for Exploratory Data Analysis (EDA) and Machine Lea
 ```
 synent-task1-titanicdatacleaning-buddy
 │
-├── notebook
-│   └── titanic_cleaning.ipynb
+|--synant_1.ipynb
 │
-├── cleaned_data
-│   ├── train_cleaned.csv
-│   ├── test_cleaned.csv
-│   └── gender_submission_cleaned.csv
+│-- train_cleaned.csv
+│--test_cleaned.csv
+│--gender_submission_cleaned.csv
 │
 └── README.md
 ```
